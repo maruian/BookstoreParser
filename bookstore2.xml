@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookstore>
+<book category="science fiction">
+<title lang="en">2001: A space odissey</title>
+<author>Arthur C. Clarke</author>
+<year>1968</year>
+<price>28.100</price>
+</book>
+<book category="science fiction">
+<title lang="en">Dune</title>
+<author>Frank Herbert</author>
+<year>1965</year>
+<price>14.15</price>
+</book>
+</bookstore>
